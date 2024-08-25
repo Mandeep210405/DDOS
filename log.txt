@@ -1,0 +1,84 @@
+UserID: 1733669022 | Time: 2024-08-25 23:23:04.533162 | Command: /bgmi | Target: 20.235.53.165 | Port: 10233 | Time: 180
+Username: @Jadeja_6212
+Target: 20.235.53.165
+Port: 10233
+Time: 180
+
+UserID: 1733669022 | Time: 2024-08-25 23:33:07.881612 | Command: /bgmi | Target: 20.204.39.185 | Port: 23018 | Time: 180
+Username: @Jadeja_6212
+Target: 20.204.39.185
+Port: 23018
+Time: 180
+
+UserID: 1733669022 | Time: 2024-08-25 23:36:44.025018 | Command: /bgmi | Target: 20.198.72.178 | Port: 29826 | Time: 180
+Username: @Jadeja_6212
+Target: 20.198.72.178
+Port: 29826
+Time: 180
+
+UserID: 1733669022 | Time: 2024-08-25 23:36:56.713139 | Command: /bgmi | Target: 20.198.72.178 | Port: 29826 | Time: 180
+Username: @Jadeja_6212
+Target: 20.198.72.178
+Port: 29826
+Time: 180
+
+UserID: 1733669022 | Time: 2024-08-25 23:37:20.404488 | Command: /bgmi | Target: 20.198.72.178 | Port: 29826 | Time: 180
+Username: @Jadeja_6212
+Target: 20.198.72.178
+Port: 29826
+Time: 180
+
+UserID: 1733669022 | Time: 2024-08-25 23:38:10.117591 | Command: /bgmi | Target: 20.198.72.178 | Port: 29826 | Time: 180
+Username: @Jadeja_6212
+Target: 20.198.72.178
+Port: 29826
+Time: 180
+
+Target: 20.198.75.192
+Port: 16645
+Time: 180
+
+Target: 20.198.75.192
+Port: 16645
+Time: 180
+
+Target: 20.198.75.192
+Port: 16645
+Time: 180
+
+Target: 20.198.75.192
+Port: 16645
+Time: 180
+
+Target: 20.198.75.192
+Port: 16645
+Time: 180
+
+Target: 20.198.75.192
+Port: 16645
+Time: 180
+
+Target: 20.198.75.192
+Port: 16645
+Time: 180
+
+Target: 20.198.75.192
+Port: 16645
+Time: 180
+
+Target: 20.198.75.192
+Port: 16645
+Time: 180
+
+Target: 20.198.75.192
+Port: 16645
+Time: 180
+
+Target: 20.198.75.192
+Port: 16645
+Time: 180
+
+Target: 20.198.75.192
+Port: 16645
+Time: 180
+
